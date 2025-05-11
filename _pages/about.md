@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of an ordinary ustcer major in physics.
+This is the homepage of an ordinary student from USTC, who is major in physics.
 
-Here is my college email [Email]quiet@mail.ustc.edu.cn and my Gmail [Email]quiet0817@gmail.com
+Here is my college email <quiet@mail.ustc.edu.cn> and my Gmail <quiet0817@gmail.com>.
 
 Longing for contacting me, for anything u are interested!
 
